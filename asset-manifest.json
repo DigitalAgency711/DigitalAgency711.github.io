@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.b142ede3.css",
-    "main.js": "/static/js/main.e8c282e6.js",
+    "main.css": "/static/css/main.7bb87885.css",
+    "main.js": "/static/js/main.8c152ffb.js",
     "static/js/787.c5bd74ae.chunk.js": "/static/js/787.c5bd74ae.chunk.js",
     "static/media/home-bg.png": "/static/media/home-bg.3fab9dc18e8752f44b98.png",
     "static/media/play-game.png": "/static/media/play-game.872a568d7288d10d0871.png",
@@ -31,12 +31,12 @@
     "static/media/WaltDisneyUi.ttf": "/static/media/WaltDisneyUi.8a8f0151a323740e2e99.ttf",
     "static/media/logo.png": "/static/media/logo.a03abd2e03536c818252.png",
     "index.html": "/index.html",
-    "main.b142ede3.css.map": "/static/css/main.b142ede3.css.map",
-    "main.e8c282e6.js.map": "/static/js/main.e8c282e6.js.map",
+    "main.7bb87885.css.map": "/static/css/main.7bb87885.css.map",
+    "main.8c152ffb.js.map": "/static/js/main.8c152ffb.js.map",
     "787.c5bd74ae.chunk.js.map": "/static/js/787.c5bd74ae.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b142ede3.css",
-    "static/js/main.e8c282e6.js"
+    "static/css/main.7bb87885.css",
+    "static/js/main.8c152ffb.js"
   ]
 }
